@@ -1,0 +1,7 @@
+# Private variables
+scaleway.auto.tfvars
+
+# State files are derived 
+# using commands in README
+terraform.tfstate*
+.terraform/
